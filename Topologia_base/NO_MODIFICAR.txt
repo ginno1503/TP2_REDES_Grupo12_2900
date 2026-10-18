@@ -1,0 +1,1 @@
+el archivo contiene la topologia sin que sean los protocolos de ruteo como RIP o OSPF, se recomendo dejar un archivo asi en caso de tener que volver hacia lo que ya sabemos que esta bien.
